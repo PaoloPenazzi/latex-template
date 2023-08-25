@@ -17,8 +17,12 @@ jobs:
       - name: Compile latex
         uses: xu-cheng/latex-action@v2
         with:
-          root_file: thesis-main.tex
+          root_file: main.tex
           args: -pdf -file-line-error -halt-on-error -interaction=nonstopmode -shell-escape
+
+# choose the pdf name
+      - name: Rename report file
+        run: mv main.pdf report.pdf
         
       - name: Release
         env:
