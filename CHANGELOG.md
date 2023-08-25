@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/PaoloPenazzi/latex-template/compare/1.0.0...1.1.0) (2023-08-25)
+
+
+### Features
+
+* change latex default config ([00ff706](https://github.com/PaoloPenazzi/latex-template/commit/00ff706444c3908726a9191fc6289da1c872b9ac))
+
 ## 1.0.0 (2023-04-04)
 
 
