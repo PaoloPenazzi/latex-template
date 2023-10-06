@@ -1,3 +1,20 @@
+## [1.2.0](https://github.com/PaoloPenazzi/latex-template/compare/1.1.0...1.2.0) (2023-10-06)
+
+
+### Features
+
+* change thesis template ([bf97927](https://github.com/PaoloPenazzi/latex-template/commit/bf979272b7fa06efbd1866a0cdae7716513185b9))
+
+
+### Bug Fixes
+
+* add the template image that was missing ([839f187](https://github.com/PaoloPenazzi/latex-template/commit/839f1871e56195651cb260ce00285d3ee7c532fd))
+
+
+### General maintenance
+
+* avoid PDF folder tracking ([b163b3e](https://github.com/PaoloPenazzi/latex-template/commit/b163b3e105c582359631a7d137a38ebb316c2260))
+
 ## [1.1.0](https://github.com/PaoloPenazzi/latex-template/compare/1.0.0...1.1.0) (2023-08-25)
 
 
